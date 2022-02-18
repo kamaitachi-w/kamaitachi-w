@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kamaitachi-w
+- 👀 I’m interested in C# and DirectumRX
+- 🌱 I’m currently learning C#
+- 📫 How to reach me https://t.me/Anton_Maxunov
