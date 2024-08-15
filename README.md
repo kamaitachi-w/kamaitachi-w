@@ -1,5 +1,1 @@
-- Hi, I'm Anton Maksunov
-- I am interested in C# and Directum RX
-- I am currently studying C#
-- How to contact me https://t.me/Anton_Maxunov
-- I am from Russia (Saint Petersburg)
+- Hi
